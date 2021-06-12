@@ -1,0 +1,5 @@
+In Anaconda Navigator
+	a. select your virtual environment, e.g. pythondata
+	b. add Channel "conda-forge"
+conda install -c conda-forge scrapy
+conda install -c anaconda ipykernel
