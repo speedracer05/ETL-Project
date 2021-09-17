@@ -1,5 +1,6 @@
-# ETL-Project
-Group Project # 2 
+# Extract Transform and Load Project, Group Project # 2 
+
+## University of California Davis Data Analytics and Visualization Boot Camp 2021
 
 # Guidelines for ETL Project
 
@@ -51,8 +52,5 @@ At the end of the week, your team will submit a Final Report that describes the 
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
-Please upload the report to Github and submit a link to Bootcampspot.
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Contact
+[John Chan](https://github.com/speedracer05)
